@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Tue, 16 Apr 2024 17:06:52 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 16 Apr 2024 19:19:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,18 +20,38 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>test 2</title>
+		<link>/2024/04/16/test-2/</link>
+					<comments>/2024/04/16/test-2/#respond</comments>
+		
+		<dc:creator><![CDATA[javi]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2024 19:19:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=9</guid>
+
+					<description><![CDATA[test]]></description>
+										<content:encoded><![CDATA[
+<p>test</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/16/test-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>hola</title>
 		<link>/2024/04/16/hola/</link>
 					<comments>/2024/04/16/hola/#respond</comments>
 		
-		<dc:creator><![CDATA[Javi]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 17:06:52 +0000</pubDate>
+		<dc:creator><![CDATA[javi]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2024 19:12:59 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=6</guid>
 
-					<description><![CDATA[que tall]]></description>
+					<description><![CDATA[test 1]]></description>
 										<content:encoded><![CDATA[
-<p>que tall</p>
+<p>test 1</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/2024/04/16/hola/feed/</wfw:commentRss>
@@ -44,8 +64,8 @@
 		<link>/2024/04/16/hello-world/</link>
 					<comments>/2024/04/16/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[Javi]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 16:41:39 +0000</pubDate>
+		<dc:creator><![CDATA[javi]]></dc:creator>
+		<pubDate>Tue, 16 Apr 2024 15:59:13 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
