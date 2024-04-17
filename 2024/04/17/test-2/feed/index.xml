@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for tittle	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Comments on: test 2	</title>
+	<atom:link href="/2024/04/17/test-2/feed/" rel="self" type="application/rss+xml" />
+	<link>/2024/04/17/test-2/</link>
 	<description></description>
 	<lastBuildDate>Wed, 17 Apr 2024 16:28:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
