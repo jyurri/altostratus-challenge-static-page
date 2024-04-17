@@ -12,7 +12,7 @@
 	<atom:link href="/author/javi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 15:10:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 15:26:50 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,82 +20,22 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
-		<title>test7</title>
-		<link>/2024/04/17/test7/</link>
-					<comments>/2024/04/17/test7/#respond</comments>
+		<title>works!!</title>
+		<link>/2024/04/17/works/</link>
+					<comments>/2024/04/17/works/#respond</comments>
 		
 		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 15:10:36 +0000</pubDate>
+		<pubDate>Wed, 17 Apr 2024 15:26:50 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=21</guid>
+		<guid isPermaLink="false">/?p=23</guid>
 
-					<description><![CDATA[works]]></description>
+					<description><![CDATA[yeaah!!]]></description>
 										<content:encoded><![CDATA[
-<p>works</p>
+<p>yeaah!!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2024/04/17/test7/feed/</wfw:commentRss>
+					<wfw:commentRss>/2024/04/17/works/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>test 6</title>
-		<link>/2024/04/17/test-6/</link>
-					<comments>/2024/04/17/test-6/#respond</comments>
-		
-		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 13:13:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=15</guid>
-
-					<description><![CDATA[tesstt]]></description>
-										<content:encoded><![CDATA[
-<p>tesstt</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/test-6/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>TEST</title>
-		<link>/2024/04/17/test-5/</link>
-					<comments>/2024/04/17/test-5/#respond</comments>
-		
-		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Wed, 17 Apr 2024 00:23:20 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=13</guid>
-
-					<description><![CDATA[seee]]></description>
-										<content:encoded><![CDATA[
-<p>seee</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/17/test-5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world! yurri</title>
-		<link>/2024/04/16/hello-world/</link>
-					<comments>/2024/04/16/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 15:59:13 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/16/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
