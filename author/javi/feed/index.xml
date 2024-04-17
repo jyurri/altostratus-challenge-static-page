@@ -12,7 +12,7 @@
 	<atom:link href="/author/javi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 00:23:21 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 17 Apr 2024 13:13:55 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>test 6</title>
+		<link>/2024/04/17/test-6/</link>
+					<comments>/2024/04/17/test-6/#respond</comments>
+		
+		<dc:creator><![CDATA[javi]]></dc:creator>
+		<pubDate>Wed, 17 Apr 2024 13:13:55 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=15</guid>
+
+					<description><![CDATA[tesstt]]></description>
+										<content:encoded><![CDATA[
+<p>tesstt</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/17/test-6/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>test 5</title>
 		<link>/2024/04/17/test-5/</link>
 					<comments>/2024/04/17/test-5/#respond</comments>
