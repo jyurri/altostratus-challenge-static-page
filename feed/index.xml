@@ -60,66 +60,6 @@
 		
 			</item>
 		<item>
-		<title>test 3</title>
-		<link>/2024/04/16/test-3/</link>
-					<comments>/2024/04/16/test-3/#respond</comments>
-		
-		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 20:45:21 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=11</guid>
-
-					<description><![CDATA[test]]></description>
-										<content:encoded><![CDATA[
-<p>test</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/16/test-3/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>test 2</title>
-		<link>/2024/04/16/test-2/</link>
-					<comments>/2024/04/16/test-2/#respond</comments>
-		
-		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 19:19:34 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=9</guid>
-
-					<description><![CDATA[test]]></description>
-										<content:encoded><![CDATA[
-<p>test</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/16/test-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>hola</title>
-		<link>/2024/04/16/hola/</link>
-					<comments>/2024/04/16/hola/#respond</comments>
-		
-		<dc:creator><![CDATA[javi]]></dc:creator>
-		<pubDate>Tue, 16 Apr 2024 19:12:59 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">/?p=6</guid>
-
-					<description><![CDATA[test 1]]></description>
-										<content:encoded><![CDATA[
-<p>test 1</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/2024/04/16/hola/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Hello world! yurri</title>
 		<link>/2024/04/16/hello-world/</link>
 					<comments>/2024/04/16/hello-world/#comments</comments>
