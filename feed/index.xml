@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Wed, 17 Apr 2024 16:28:03 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 18 Apr 2024 07:57:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,6 +20,26 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.5.2</generator>
 	<item>
+		<title>18 abril 9:56</title>
+		<link>/2024/04/18/18-abril-956/</link>
+					<comments>/2024/04/18/18-abril-956/#respond</comments>
+		
+		<dc:creator><![CDATA[javi]]></dc:creator>
+		<pubDate>Thu, 18 Apr 2024 07:57:08 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=30</guid>
+
+					<description><![CDATA[funcionaa]]></description>
+										<content:encoded><![CDATA[
+<p>funcionaa</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/2024/04/18/18-abril-956/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>test 2</title>
 		<link>/2024/04/17/test-2/</link>
 					<comments>/2024/04/17/test-2/#respond</comments>
